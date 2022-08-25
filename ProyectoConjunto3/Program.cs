@@ -8,6 +8,7 @@ namespace ProyectoConjunto3
         {
             var txt = "Pepe";
             Console.WriteLine($"Hello World! {txt}");
+            int a = 5;
         }
     }
 }
