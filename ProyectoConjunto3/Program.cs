@@ -6,7 +6,8 @@ namespace ProyectoConjunto3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var txt = "Pepe";
+            Console.WriteLine($"Hello World! {txt}");
         }
     }
 }
